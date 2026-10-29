@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá! Eu sou o Ryan 👋
 
-<!--
-**Ryan00Alba/Ryan00Alba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação na UNIP.
 
-Here are some ideas to get you started:
+💻 Estou desenvolvendo minhas habilidades em programação e desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias em estudo
+
+- Python
+- JavaScript
+- Java
+- HTML5
+- CSS3
+
+## 🛠️ Ferramentas
+
+- Git
+- GitHub
+- Visual Studio Code
+
+## 📚 Atualmente estudando
+
+- Lógica de programação e algoritmos
+- Estruturas de dados
+- Desenvolvimento de aplicações
+
+## 🎯 Objetivo
+
+Conquistar uma oportunidade de estágio em desenvolvimento de software e continuar evoluindo como programador.
+
+## 🔗 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/ryan00alba/)
